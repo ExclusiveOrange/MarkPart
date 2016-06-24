@@ -11,4 +11,4 @@ markpart: markpart.cpp cmark.hpp
 	$(CXX) $(CXXFLAGS) -o markpart markpart.cpp
 
 clean:
-	$(RM) -f markpart
+	$(RM) markpart
