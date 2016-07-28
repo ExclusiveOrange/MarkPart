@@ -1,4 +1,4 @@
-# Markov Random Field Partion Function Computer
+# Markov Random Field Partition Function Computer
 
 * [What](#what)
 * [Building](#building)
